@@ -1,5 +1,6 @@
 # Project Title
-![discord-clone image](https://github.com/ARPITxxPATEL/discord-clone-frontend/blob/main/public/favicon.ico?raw=true)
+![discord-clone image](https://github.com/ARPITxxPATEL/discord-clone-frontend/blob/main/public/favicon.ico?raw=true {width:})
+<img src="https://github.com/ARPITxxPATEL/discord-clone-frontend/blob/main/public/favicon.ico" width="48" height="48>
 Discord-Clone
 
 ## Demo link:
