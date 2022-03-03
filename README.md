@@ -7,19 +7,18 @@ Access my site at [discord-clone-by-arpitkumar.netlify.app](https://discord-clon
 ## Table of Content:
 
 - [About The App](#about-the-app)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 
 
 ## About The App
 [Discord-Clone](#project-title) is an web application inspired from original [Discord](https://discord.com/)
-
-## Screenshots
-
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
-
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+- Features:
+  1. User Authentication 
+  2. Invite friends by their email
+  3. Chat with friends
+  4. Create a room (Max limit = 4)
+  5. Video call and Screen sharing
 
 ## Technologies
 I used `React`, `Redux`, `socket.io-client`, `WebRTC` ...
