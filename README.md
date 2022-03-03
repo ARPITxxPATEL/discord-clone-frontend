@@ -1,7 +1,5 @@
-# Project Title
-![discord-clone image](https://github.com/ARPITxxPATEL/discord-clone-frontend/blob/main/public/favicon.ico?raw=true {width:})
-<img src="https://github.com/ARPITxxPATEL/discord-clone-frontend/blob/main/public/favicon.ico" width="48" height="48>
-Discord-Clone
+# Discord-Clone
+
 
 ## Demo link:
 Access my site at [discord-clone-by-arpitkumar.netlify.app](https://discord-clone-by-arpitkumar.netlify.app/)
@@ -15,8 +13,7 @@ Access my site at [discord-clone-by-arpitkumar.netlify.app](https://discord-clon
 
 
 ## About The App
-[Discord-Clone](#project-title) is an web application inspired from original [Discord](https://discord.com/),
-- 
+[Discord-Clone](#project-title) is an web application inspired from original [Discord](https://discord.com/)
 
 ## Screenshots
 
@@ -25,7 +22,7 @@ Access my site at [discord-clone-by-arpitkumar.netlify.app](https://discord-clon
 Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Technologies
-I used `React`, `Redux`, `socket.io-client`, `WebRTC`...
+I used `React`, `Redux`, `socket.io-client`, `WebRTC` ...
 
 ## Setup
 - download or clone the repository
