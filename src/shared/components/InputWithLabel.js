@@ -53,7 +53,7 @@ const InputWithLabel = (props) => {
       onChange={handleValueChange}
       type={type}
       placeholder={placeholder}
-      spellcheck='false'
+      spellCheck='false'
       />
     </Wrapper>
   )
